@@ -1,5 +1,6 @@
 package Ejerciciosdia15;
 import ejercicio16.*;
+import ejerccio3num.*;
 public class principal {
 
 	public static void main(String[] args) {
@@ -7,8 +8,8 @@ public class principal {
 
 		
 		///Inicia Calculador para monto total con iva
-		/*Calculadora calculadora=new Calculadora();
-		calculadora.calcularIva();*/
+		Calculadora calculadora=new Calculadora();
+		calculadora.calcularIva();
 		///Fin Calculador para monto total con iva
 		
 		//Inicia de converciones de monda
@@ -28,8 +29,13 @@ public class principal {
 		//fin verificar positivo  negatico
 		
 		//Inicia si es par, impar o primo
-		Determinar determinar=new Determinar();
+		/*Determinar determinar=new Determinar();*/
 	    //Inicia si es par, impar o primo
+		
+		//Inicia el programa de dos mayores
+	  /*  DosMayores dos=new DosMayores();
+	    dos.compara();*/
+		//fin el programa de dos mayores
 		
 		
 	}
