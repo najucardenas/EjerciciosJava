@@ -1,5 +1,5 @@
 package Ejerciciosdia15;
-
+import ejercicio16.*;
 public class principal {
 
 	public static void main(String[] args) {
@@ -15,6 +15,23 @@ public class principal {
 		/*Menu menu=new Menu();
 		menu.menu1();*/
 		//fin de converciones de monda
+		
+		//Inicia  decir si un año es bisiesto
+		
+		/*Bisiesto bi=new Bisiesto();*/
+		
+		//Inicia  decir si un año es bisiesto
+		
+		
+		//Inicia verificar positivo  negatico
+		/*VerificarNumero veri=new VerificarNumero();*/
+		//fin verificar positivo  negatico
+		
+		//Inicia si es par, impar o primo
+		Determinar determinar=new Determinar();
+	    //Inicia si es par, impar o primo
+		
+		
 	}
 
 }
