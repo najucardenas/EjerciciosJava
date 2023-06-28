@@ -1,5 +1,6 @@
 package Ejerciciosdia15;
 import ejercicio16.*;
+import ejerccio17.*;
 import ejerccio3num.*;
 public class principal {
 
@@ -8,8 +9,8 @@ public class principal {
 
 		
 		///Inicia Calculador para monto total con iva
-		Calculadora calculadora=new Calculadora();
-		calculadora.calcularIva();
+		/*Calculadora calculadora=new Calculadora();
+		calculadora.calcularIva();*/
 		///Fin Calculador para monto total con iva
 		
 		//Inicia de converciones de monda
@@ -36,6 +37,13 @@ public class principal {
 	  /*  DosMayores dos=new DosMayores();
 	    dos.compara();*/
 		//fin el programa de dos mayores
+		
+		
+		//Inicia los programas del ejercicio 17
+		TablaMultiplicar multi=new TablaMultiplicar();
+		NumeroPares pares=new NumeroPares();
+		SumaNatural natural=new SumaNatural();
+		//fin los programas del ejercicio 17
 		
 		
 	}
