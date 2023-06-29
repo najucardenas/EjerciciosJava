@@ -1,5 +1,6 @@
 package Ejerciciosdia15;
 import ejercicio16.*;
+import ejercicio18.*;
 import ejerccio17.*;
 import ejerccio3num.*;
 public class principal {
@@ -40,12 +41,21 @@ public class principal {
 		
 		
 		//Inicia los programas del ejercicio 17
-		TablaMultiplicar multi=new TablaMultiplicar();
+		/*TablaMultiplicar multi=new TablaMultiplicar();
 		NumeroPares pares=new NumeroPares();
-		SumaNatural natural=new SumaNatural();
+		SumaNatural natural=new SumaNatural();*/
 		//fin los programas del ejercicio 17
 		
 		
+		//Inicio ejercicio 18
+		NumeroNegativo ne=new NumeroNegativo();
+		factorial  eje18=new factorial();
+		Suma sum=new Suma();
+		
+		
+		
+		
+		//fin ejercicio 18
 	}
 
 }
