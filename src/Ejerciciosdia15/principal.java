@@ -1,6 +1,7 @@
 package Ejerciciosdia15;
 import ejercicio16.*;
 import ejercicio18.*;
+import ejerecio19.*;
 import ejerccio17.*;
 import ejerccio3num.*;
 public class principal {
@@ -48,14 +49,17 @@ public class principal {
 		
 		
 		//Inicio ejercicio 18
-		NumeroNegativo ne=new NumeroNegativo();
+		/*NumeroNegativo ne=new NumeroNegativo();
 		factorial  eje18=new factorial();
-		Suma sum=new Suma();
-		
-		
-		
-		
+		Suma sum=new Suma();*/
 		//fin ejercicio 18
+		
+		//Inicio ejercicio 19
+		//MenuComida menu=new MenuComida();
+		calcula cal=new calcula();
+	    
+		//MenuComida  menu=new MenuComida() ;   
+		//Fin ejercicio 19
 	}
 
 }
