@@ -1,8 +1,10 @@
 package Ejerciciosdia15;
 import ejercicio16.*;
+//package Ejerciciosdia15;
 import ejercicio18.*;
 import ejerecio19.*;
 import ejerccio17.*;
+import ejercicios22.*;
 import ejerccio3num.*;
 public class principal {
 
@@ -56,10 +58,17 @@ public class principal {
 		
 		//Inicio ejercicio 19
 		//MenuComida menu=new MenuComida();
-		calcula cal=new calcula();
+		/*calcula cal=new calcula();*/
 	    
 		//MenuComida  menu=new MenuComida() ;   
 		//Fin ejercicio 19
+		
+		
+		//inicio ejercicio 22
+		
+		//EliminarPa eliminar=new EliminarPa();
+		OrdenarNu num=new OrdenarNu();
+		//fin ejercicio 22
 	}
 
 }
