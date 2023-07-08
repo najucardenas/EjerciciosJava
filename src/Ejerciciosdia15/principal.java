@@ -1,10 +1,12 @@
 package Ejerciciosdia15;
 import ejercicio16.*;
+
 //package Ejerciciosdia15;
 import ejercicio18.*;
 import ejerecio19.*;
 import ejerccio17.*;
 import ejercicios22.*;
+import ejercicio25.*;
 import ejerccio3num.*;
 public class principal {
 
@@ -67,8 +69,14 @@ public class principal {
 		//inicio ejercicio 22
 		
 		//EliminarPa eliminar=new EliminarPa();
-		OrdenarNu num=new OrdenarNu();
+		//OrdenarNu num=new OrdenarNu();
 		//fin ejercicio 22
+		
+		
+		Mayusculas mayu=new Mayusculas();
+		Pares par=new Pares();
+		Letras letra=new Letras();
+		
 	}
 
 }
